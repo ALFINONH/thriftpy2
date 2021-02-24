@@ -1,0 +1,6 @@
+rsa
+thrift
+requests
+pyqrcode
+ply
+thriftpy2
